@@ -1,0 +1,23 @@
+{
+  "data": {
+    "created": "2019-09-11T12:44:04Z",
+    "email": "support@firstbasesolutions.com",
+    "expires": "2024-09-12T00:00:00Z",
+    "name": "FBS",
+    "uuid": "35994008-87b1-415a-b842-afed5a7101e8"
+  },
+  "publicKey": {
+    "algorithm": "RSA",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAywjaydhSSmy0CJiytRFj2R/lAzIC4Jcj3Y5kBrxBQqHXrpcd7IthRyWhNh8QzLFte6MaYse0Rpne4+bpvuJzA+Hx5pvFQCBDqZwpAfnH+ja1djkZo9VAmD7yr1JFkiRSUpWJKRy7KCUbug/A4Scoi5Rqydlr23pksyMrzlKqVqLjGpXG2O/7PkokoUknNtxZNkVcD58jRbOfr4T9qDHEQtGyBZBmB/dXsJCTpN5fYHk8AocJiS2UjeeImgbjqv/5zsutlAI5i1nuP2fFNqLxS3Bq520NY9UokvE9WfO5KESAiAAn8sH8KU9zlhmjie0AUPQkjOOtzYp7x7UIwCzoCQIDAQAB"
+  },
+  "signatures": [
+    {
+      "name": "FBS",
+      "uuid": "35994008-87b1-415a-b842-afed5a7101e8",
+      "created": "2019-09-11T12:44:05Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "gYkDFQy8iLM\u003d",
+      "signature": "ffbz96LLuRHtdkb7W5NBwqw3U1VDTV8GoStX2BYbWNwGsJRFDC3LPaBaGHDoC2JgDWfAs29zZYdpFEQMV4bnNqTzQVKjUcwTRI/TElofj1a+kcvpY833+jp7Sgr6MRz1lyqlDJRaz292kAXRXb5UJbgPX7sQf8yRi1UAHUwLHijl+pk7uFoNcmb1WUADWM5sAGdWhl1zvQLEVn7e4eG92gv0xFHR/xCpxsOBQg072RzLpY5o1+2K5EfszD0gCOoa0agVCi9anFy8LegtqxvfDJi5tbFfNyHw9+XfefgecwBp858FMqZGUKb5Trqsa20owjEpUcpnOpNNPKXf/GC13Q\u003d\u003d"
+    }
+  ]
+}

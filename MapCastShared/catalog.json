@@ -1,0 +1,44 @@
+{
+  "format": "1",
+  "packages": [
+    {
+      "name": "MapCastShared",
+      "namespace": "MapCastShared",
+      "format": "1",
+      "version": "1.0.0",
+      "creator": "FBS",
+      "summary": "Short summary",
+      "detailedDescription": "Long description of package",
+      "type": "code",
+      "signatures": [
+        {
+          "name": "FBS",
+          "uuid": "35994008-87b1-415a-b842-afed5a7101e8",
+          "created": "2019-09-12T14:41:07Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "V1fGZPfP6vY\u003d",
+          "signature": "Gqtm/zMj3Ta+uJg3SBYdpKDdl84CwMgdNHV8uqltQFmkXYDT3GFLAjpcCkhqsUMUd2E4a0r5RMTdhPRXQ+5115mn7dqRhlH+rJ9PSzBadM2d1d8Amad2cBH/t/u9Dw382egei3vuWQD/UoXhU4jtJE9kLVsKu3DKkf03sGjGqrls/omATVDUqw/BTK5uUMW1zzHvVGmoXryaNPtX/HtMu87F/i1jKrczfywBZZ+/lAUKYFkiI4Ts803duqkXcPDLhIJzz0e2s3AKVMDlrVsxnDto31bM9U7Ajfpet9JhyWQhJKu1cP7iP55du01LTBdtAw6CZA2UZdYwIC1NBv3bYw\u003d\u003d"
+        }
+      ],
+      "js": [
+        {
+          "path": "http://cdn.leafletjs.com/leaflet-0.5/leaflet.js",
+          "bundle": false
+        }
+      ],
+      "css": [
+        {
+          "path": "resources/css/extra.css"
+        }
+      ],
+      "slicer": {
+        "js": [
+          {
+            "path": "${package.dir}/sass/example/custom.js",
+            "isWidgetManifest": true
+          }
+        ]
+      }
+    }
+  ]
+}
