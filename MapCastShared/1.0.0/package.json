@@ -11,15 +11,15 @@
     {
       "name": "FBS",
       "uuid": "35994008-87b1-415a-b842-afed5a7101e8",
-      "created": "2019-09-13T15:44:06Z",
+      "created": "2019-09-19T21:52:17Z",
       "algorithm": "SHA1withRSA",
-      "nonce": "dckOl+S82Ho\u003d",
-      "signature": "QzDpJ4NxuU1Z9I9hv+fl2/TXf752ZcTLLsT2OJmXNZPsTfRTm3RkjBjfwiqMxHUyFgXmaBKaAWEVYbEiqkZwStAr1D8rImt/jCG/W9+m1LADXIQK538LYOA+5/GB9UJidgGo5715msISYPrTkBFaQi+ijp3bEfSVYf48aafA/h4yNhMSThXTyxw248rzFcxB8VXQ9qoeWbw4Y78ZgXO9KvQ21e/JvOufGvwl5oi4EatShQ1xlXlGRUk78HxrzN45+D3rZkBZrm9NwO/DbBajhN7CTwTZFYVrmb9lTj87WIB95WvcLLERdX205yzDNrhcbHhfhL/zW1sTCNSkpJshSA\u003d\u003d"
+      "nonce": "WkY7/LWa+bA\u003d",
+      "signature": "XAqqudvwmWDTd0qC1uJR66puBHdBLTU4pFcf/WD/i536Ha2qwFw8JmGMtrM+qcBzTBqaL0e7WPzlCLCZav1jFtencT4dyJdhBtHxjjHPTgtQc+8RmrCAj3FOK59Z7JvYwsLoMMG+gxVnvPMKm2wEKqZ2+Jp1hTfeRFEcVdJG5E36SsVm1fQ8iruov7KvLoZUc/PghbmTRWoDjaahY/esfx4pqy1sHt1Ww4vJ1sdwlEkkAPENlE3VHXUOg6egNe7UT8HJO5ZkKbhxXz2a4L/bWmUtAmjMp6oGgyMUKH5l6UFtkrl1SacOqh36pLn9jBcW1Ax5biMzI+OaUUIAulJ+jw\u003d\u003d"
     }
   ],
   "js": [
     {
-      "path": "http://cdn.leafletjs.com/leaflet-0.5/leaflet.js",
+      "path": "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.4/leaflet.js",
       "bundle": false
     }
   ],
